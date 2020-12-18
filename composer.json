@@ -1,0 +1,26 @@
+{
+    "name": "normphp-core/terminal-info",
+    "description": "terminal-info",
+    "keywords": ["terminal message","web","browser"],
+    "homepage": "https://normphp.org/",
+    "authors": [
+        {
+            "name": "pizepei",
+            "email": "pizepei@pizepei.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.0.0",
+        "normphp/config": "dev-master",
+        "normphp/helper": "dev-master"
+    },
+    "repositories": {
+    },
+    "autoload": {
+        "psr-4": {
+            "normphpCore\\terminalInfo\\": "src/"
+        }
+
+    }
+
+}
