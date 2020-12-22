@@ -5,7 +5,7 @@
  * Date: 2018/8/17
  * Time: 16:11
  */
-namespace normphpCore\terminalInfo;
+namespace normphpCore\terminalInfo\model;
 use normphpCore\model\db\Model;
 class TerminalInfoModel extends Model
 {
