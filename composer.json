@@ -12,7 +12,7 @@
     "require": {
         "php": ">=7.0.0",
         "normphp/config": "dev-master",
-        "normphp/helper": "dev-master"
+        "normphp/helper": "dev-main"
     },
     "repositories": {
     },
